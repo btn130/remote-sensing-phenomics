@@ -1,0 +1,8 @@
+*.tif
+*.jp2
+*.las
+*.laz
+*.nc
+*.hdf
+data/raw/
+outputs/raw/
